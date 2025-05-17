@@ -47,7 +47,7 @@ I aspire to work as a **Frontend Developer** where I can contribute to real-worl
 
 ## 📫 Let's Connect
 
-- **Email**: asmitanand06@gmail.com  
+- **Email**: asmitanand17@gmail.com  
 - **LinkedIn**: [linkedin.com/in/asmit-anand](https://www.linkedin.com/in/asmitanand17/)
 - **GitHub**: [github.com/AsmitAnand](https://github.com/asmit-17)
 
