@@ -16,17 +16,16 @@ Hi! I'm **Asmit Anand**, a passionate **Frontend Web Developer** skilled in buil
 
 ## 📂 Projects
 
-### 🏡 Homely – Real Estate Platform (Frontend)
-- A frontend interface for a real estate website built with React.
-- **Features**: Search/filter listings, property cards, login/signup UI, routing
-- **Live**: [Visit Site](https://homelyfrontend.netlify.app/)
-- **Code**: [GitHub Repo](https://github.com/AsmitAnand/homely)
+### Study Adda (Frontend)
+- Developed an ed-tech platform providing interactive learning experiences for students and instructors. Built dynamic UI components and managed state-driven features for user interaction.
+- **Features**:  Student & Instructor dashboards, Learning modules, Rating system
+- **Code**: [GitHub Repo](https://github.com/asmit-17/StudyAdda)
 
-### 🧴 The Ordinary Clone
-- A clone of "The Ordinary" e-commerce frontend using React.
-- **Features**: Product grid, filtering/sorting, add-to-cart UI, styled components
-- **Live**: [Visit Site](https://the-ordinary-website.netlify.app/)
-- **Code**: [GitHub Repo](https://github.com/AsmitAnand/The-Ordinary)
+
+### Medtrack
+- Developed a medication tracking web app to help users manage prescriptions and get real-time reminders. Integrated Firebase services for authentication and cloud data storage.
+- **Features**:Prescription logging, daily reminders, real-time sync
+- **Code**: [GitHub Repo](https://github.com/asmit-17/prescription-management)
 
 ---
 
@@ -49,8 +48,8 @@ I aspire to work as a **Frontend Developer** where I can contribute to real-worl
 ## 📫 Let's Connect
 
 - **Email**: asmitanand06@gmail.com  
-- **LinkedIn**: [linkedin.com/in/asmit-anand](https://www.linkedin.com/in/asmit-anand/)
-- **GitHub**: [github.com/AsmitAnand](https://github.com/AsmitAnand)
+- **LinkedIn**: [linkedin.com/in/asmit-anand](https://www.linkedin.com/in/asmitanand17/)
+- **GitHub**: [github.com/AsmitAnand](https://github.com/asmit-17)
 
 ---
 
